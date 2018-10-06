@@ -1,0 +1,4 @@
+2018-10-06 12:37:42.415,https://streamsrv15.feratel.co.at/streams/1/05132_5bb88f0c-b4adVid.mp4?dcsdesign=feratel4
+2018-10-06 12:37:47.711,https://streamsrv15.feratel.co.at/streams/1/05132_5bb88f0c-b4adVid.mp4?dcsdesign=feratel4
+2018-10-06 12:37:52.979,https://streamsrv65.feratel.co.at/streams/1/05132_5bb88f0c-b4adVid.mp4?dcsdesign=feratel4
+2018-10-06 12:37:59.285,https://streamsrv65.feratel.co.at/streams/1/05132_5bb88f0c-b4adVid.mp4?dcsdesign=feratel4
